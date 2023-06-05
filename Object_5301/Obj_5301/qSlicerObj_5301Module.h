@@ -40,7 +40,7 @@ public:
   explicit qSlicerObj_5301Module(QObject *parent=nullptr);
   ~qSlicerObj_5301Module() override;
 
-  qSlicerGetTitleMacro(QTMODULE_TITLE);
+  qSlicerGetTitleMacro(tr("Obj_5301"));
 
   QString helpText()const override;
   QString acknowledgementText()const override;

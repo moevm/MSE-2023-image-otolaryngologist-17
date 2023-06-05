@@ -56,20 +56,20 @@ qSlicerObj_5301Module::~qSlicerObj_5301Module()
 //-----------------------------------------------------------------------------
 QString qSlicerObj_5301Module::helpText() const
 {
-  return "This is a loadable module that can be bundled in an extension";
+  return "Loadable module for automated processing of CT images";
 }
 
 //-----------------------------------------------------------------------------
 QString qSlicerObj_5301Module::acknowledgementText() const
 {
-  return "This work was partially funded by NIH grant NXNNXXNNNNNN-NNXN";
+  return "-";
 }
 
 //-----------------------------------------------------------------------------
 QStringList qSlicerObj_5301Module::contributors() const
 {
   QStringList moduleContributors;
-  moduleContributors << QString("John Doe (AnyWare Corp.)");
+  moduleContributors << QString("SPbETU students");
   return moduleContributors;
 }
 
@@ -82,7 +82,7 @@ QIcon qSlicerObj_5301Module::icon() const
 //-----------------------------------------------------------------------------
 QStringList qSlicerObj_5301Module::categories() const
 {
-  return QStringList() << "Examples";
+  return QStringList() << "Otolaryngologist";
 }
 
 //-----------------------------------------------------------------------------

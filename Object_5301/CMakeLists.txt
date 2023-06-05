@@ -1,15 +1,15 @@
 cmake_minimum_required(VERSION 3.16.3...3.19.7 FATAL_ERROR)
 
-project(Object_5301)
+project(Object5301)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Object_5301")
-set(EXTENSION_CATEGORY "Examples")
-set(EXTENSION_CONTRIBUTORS "John Doe (AnyWare Corp.)")
-set(EXTENSION_DESCRIPTION "This is an example of a simple extension")
-set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/Object_5301.png")
-set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/Object_5301/Screenshots/1.png")
+set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Object5301")
+set(EXTENSION_CATEGORY "Otolaryngologist")
+set(EXTENSION_CONTRIBUTORS "students (SPbETU)")
+set(EXTENSION_DESCRIPTION "Tool for automatic analysis of CT images")
+set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/Object5301.png")
+set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/Object5301/Screenshots/1.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
