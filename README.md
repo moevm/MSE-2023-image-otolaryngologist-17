@@ -12,4 +12,4 @@
 ## Инструкция по запуску проекта:
 
 ## Инструкция по выделению перегородки вручную:
-  [![Гайд по разметке](https://i.imgur.com/DwurbBO.jpg)](https://drive.google.com/file/d/1QJqGcr3TStydcqZCUw6o2UNPHIzSDg0M/view?usp=sharing)
+  [![Гайд по разметке](https://i.imgur.com/BeHjgIv.png)](https://drive.google.com/file/d/1QJqGcr3TStydcqZCUw6o2UNPHIzSDg0M/view?usp=sharing)
