@@ -9,7 +9,7 @@
   - Результаты  разметки (https://disk.yandex.ru/d/fT51-E7dndob4w/Ready%20segmentations) (Авторизацию необходимо запросить у организатора курса Промышленная разработка ПО)
   - Скачать .rar архив с датасетом снимков КТ (https://disk.yandex.ru/d/fT51-E7dndob4w) (Авторизацию необходимо запросить у организатора курса Промышленная разработка ПО)
 
-## Инструкция по запуска проекта:
+## Инструкция по запуску проекта:
 
-## Инструкция по запуска проекта:
-  [![Гайд по разметке](https://drive.google.com/file/d/1hXlwFlcFOVRATSdUVm7wRRlWJSWzrC5E/view?usp=drive_link)](https://drive.google.com/file/d/1QJqGcr3TStydcqZCUw6o2UNPHIzSDg0M/view?usp=sharing)
+## Инструкция по выделению перегородки вручную:
+  [![Гайд по разметке](https://i.imgur.com/DwurbBO.jpg)](https://drive.google.com/file/d/1QJqGcr3TStydcqZCUw6o2UNPHIzSDg0M/view?usp=sharing)
