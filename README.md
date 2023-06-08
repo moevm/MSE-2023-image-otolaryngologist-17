@@ -1,32 +1,15 @@
-# MSE-2023-template
-Шаблонный проект для гитхаба на курсе Промышленная разработка ПО
+# MSE-2023-image-otolaringologist-17
+Выделение носовой перегородки
 
-## Полезные ссылки по проекту 
-(каждый проект заполняет под себя):
-  - [База знаний по проекту](https://miro.com/app/board/uXjVPjK_iOw=/?share_link_id=115273625923)
-  - 
+## Полезные ссылки по проекту ):
+  - Цели и задачи проекта (https://docs.google.com/presentation/d/1pPmOwicxTL7Wjn0Ni2oCvUQwYFB3UzjZ/edit?usp=sharing&ouid=107864795188107061876&rtpof=true&sd=true)
+  - Презентация результатов проделанной работы (https://docs.google.com/presentation/d/1_WHw01NUS7mgcmJLPZXTisCtAd9oLsKy/edit?usp=sharing&ouid=107864795188107061876&rtpof=true&sd=true)
+  - Wiki-страница проекта (http://wiki.osll.ru/doku.php/projects:otolaryngologist:start)
+  - Обзор методов и технологий, используемых для анализа медицинских изображений (https://drive.google.com/file/d/1Dh2fooo0-RPrvb9GOyXTndl6gE6iMcZr/view?usp=sharing)
+  - Результаты  разметки (https://disk.yandex.ru/d/fT51-E7dndob4w/Ready%20segmentations) (Авторизацию необходимо запросить у организатора курса Промышленная разработка ПО)
+  - Скачать .rar архив с датасетом снимков КТ (https://disk.yandex.ru/d/fT51-E7dndob4w) (Авторизацию необходимо запросить у организатора курса Промышленная разработка ПО)
 
-## Git-Flow:
-  - У нас есть 3 ветки: main, dev, test
-  - Каждая feature в отдельной ветке, которая создаётся из dev
-  - При старте работ над feature делаетс 2 PR: dev и test, а задача переводится в *in progress*
-  - После завершения разработки, задача переходит в статус *in review*
-  - Ревью осуществляется в ветке test, исправления заливатся в feature-ветку, после ревью ветка мёржится в test и задача переходит в статус *done*
-  - При релизе запланированных фич, они поочерёдно мёржатся в dev со squash коммитов
-  - После того, как все нужные фичи попали в dev, делается релизная ветка в которую коммитится up версии и делается 2 PR: dev и master
-  - После того, как PR будет влит в мастер на него ставится тег с версией
+## Инструкция по запуска проекта ):
 
-### Версионирование
-Каждую доставку вашего ПО маркируйте следующей схемой: A.B.C, где A — это глобальные изменения, ломающие обратную совместимость; B — доставка новых функций (работоспособность прошлых версий, соответственно, сохраняется); C — мелкие правки, патчи и горячие фиксы
-
-
-### Создание feature-ветки
-  - На доске проекта создаётся item в статусе *draft*
-  - Далее он преобразуется в issue
-  
-![image](https://user-images.githubusercontent.com/29037445/221422439-d4e9d890-f8b1-4b18-95f9-eaeb7581ca58.png)
-  - Заходим  issue в вашем репозитории
-![image](https://user-images.githubusercontent.com/29037445/221422634-49e1cf91-b856-444d-813f-ca69838740c1.png)
-  - Справа, в меню блок - Development Выбираете "Create branch"
-#### ВАЖНО по gitflow ветки вы создаёте из dev
-![image](https://user-images.githubusercontent.com/29037445/221422780-3e6d05ee-cbf4-427b-ae7e-a0f670d9bf4a.png)
+## Инструкция по запуска проекта ):
+  [![Гайд по разметке](https://drive.google.com/file/d/1hXlwFlcFOVRATSdUVm7wRRlWJSWzrC5E/view?usp=sharing)](https://drive.google.com/file/d/1QJqGcr3TStydcqZCUw6o2UNPHIzSDg0M/view?usp=sharing)
